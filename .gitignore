@@ -29,6 +29,7 @@ htmlcov/
 # virtualenv
 env/
 venv/
+.venv
 .env
 
 # built protos
